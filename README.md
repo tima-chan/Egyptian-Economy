@@ -10,3 +10,4 @@ This is a data analysis project where I:
 - Explored relationships among indicators in comparison to theory.
 - Concluded insightful tentative results using summary statistics.
 - Represented these main conclusion using graphs.
+..
