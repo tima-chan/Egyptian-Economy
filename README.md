@@ -11,3 +11,8 @@ This is a data analysis project where I:
 - Concluded insightful tentative results using summary statistics.
 - Represented these main conclusion using graphs.
 ..
+
+
+#Tableau Summary Dashboard
+
+https://public.tableau.com/views/EgyptEconomy/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
